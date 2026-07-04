@@ -37,8 +37,8 @@
 
 ## 👩‍💻 About Me:
 
-- Currently a 4th-year (Senior) Information Technology student
-- Studies at the University of Southeastern Philippines - Tagum
+- Graduated Bachelor of Science in Information Technology 
+- Likes building and creating projects that's practical and solves an organization's needs
 - 22 years old 
 
 ## 💻 Skill Set:
