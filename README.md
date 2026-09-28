@@ -16,9 +16,10 @@
 
 ## 👩‍💻 About Me:
 
-- Graduated Bachelor of Science in Information Technology 
-- Likes building and creating projects that's practical and solves an organization's needs
-- 22 years old 
+- Full-stack web developer at LGU-Tagum City Information Office 
+- Builds and creates projects that's practical and solves an organization's needs
+- Beyond my civic duties,  I spend my time working on side projects and looking for ways to learn new skills.
+- And when I’m not at my keyboard, you'll usually find me out there, somewhere, on a pickleball court.
 
 ## 💻 Skill Set:
 
@@ -41,7 +42,7 @@
   
 ### Others
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,mysql,figma,vscode,arduino,firebase,sublime,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,mysql,figma,vscode,arduino,firebase,laravel,sublime,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
